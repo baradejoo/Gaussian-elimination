@@ -1,7 +1,7 @@
 # Gaussian-elimination
 Gaussian elimination with pivoting strategy + some tests with result writing to .csv file 
 
-### Polish Description
+## Polish Description
 Częściowy opis w języku angielskim zawarty jest w komentarzu w pliku gaussian_elimination.py 
 (A partial description in English is included in the comment in the file gaussian_elimination.py)
 
